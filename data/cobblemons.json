@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Pedregulho",
+    "types": ["Pedra"],
+    "description": "Um cobblemon robusto, feito de pedras antigas.",
+    "stats": {"hp": 60, "atk": 70, "def": 90, "speed": 30}
+  },
+  {
+    "id": 2,
+    "name": "Brisacobre",
+    "types": ["Metal","Vento"],
+    "description": "Rápido e reluzente, adora voar entre ruínas.",
+    "stats": {"hp": 45, "atk": 55, "def": 40, "speed": 95}
+  }
+]
